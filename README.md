@@ -9,7 +9,7 @@ When ever app will detect some silence in your sentences, it will automatically 
 Using audio received from Dialgflow will be played via speakers and the conversation can go on until you click on stop button.
 
 This solution is using following approach:
-| App |                                   | Google Servers |
+| App |                                    | Google Servers |
 1. Creating and Sign JWT                       ---
 2. Use JWT to request token       --->         ---
 3.                                <---         Token response
